@@ -13,7 +13,8 @@ Este repositório contém as soluções em C++ para os exercícios da Lista de I
 - Questão 7: Status de Aprovação Escolar baseado em Duas Notas
 - Questão 8: Comparação de Médias Aritméticas de Dois Estudantes
 - Questão 9: Determinação do Maior entre Três Números Digitados
-🛠️ Como Executar os Códigos
+- 
+# 🛠️ Como Executar os Códigos
 
 Para compilar e executar qualquer um dos códigos abaixo utilizando o g++ no terminal, siga os passos:
 
